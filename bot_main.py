@@ -15,7 +15,7 @@ from flask import Flask, request
 app = Flask(__name__) 
 
 #Токен нашего бота 
-TOKEN = '257134477:AAFpyc7zDlRYZZqvY5q69_D3rttXCvoGgxo'
+TOKEN = '#'
 URL = 'badmaninnobot2.appspot.com' 
 
 global bot 
